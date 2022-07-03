@@ -1,6 +1,8 @@
 # Celebrations-backend
 
-## A Full stack web app that can be used by users with similar interests or intensions to join in interact with others, where they can share memorable events happening in their life along with editing and or even deleting them if they later want. An user can even like other members posts, along with it's own having a firm grasp of what's going on in the circle
+## A Full stack web app that can be used by users with similar interests or intensions to join in interact with others, where they can share memorable events happening in their
+life along with editing and or even deleting them if they later want. An user can even like other members posts, along with it's own having a firm grasp of what's going on
+in the circle
 
 ![image](https://user-images.githubusercontent.com/73072690/177022931-a2914aca-ac2f-44a2-a691-cd559c03b7dc.png)
 
@@ -45,8 +47,3 @@ The post is created without the reloading of the page for the user to see
 
 ### 3. No actions can be performed without logging in/ signing in the application, and at the end of an hour the user is automatically logged out and no more actions can be performed
 ![image](https://user-images.githubusercontent.com/73072690/177022931-a2914aca-ac2f-44a2-a691-cd559c03b7dc.png)
-
-## Posts data from the backend
-![image](https://user-images.githubusercontent.com/73072690/177025023-0085db33-da3f-4491-8650-9ae6bf64c710.png)
-![image](https://user-images.githubusercontent.com/73072690/177025046-9c15e2b8-3a8e-4158-b333-8b203c1346c8.png)
-
