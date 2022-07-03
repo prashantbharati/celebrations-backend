@@ -1,8 +1,6 @@
 # Celebrations-backend
 
-## A Full stack web app that can be used by users with similar interests or intensions to join in interact with others, where they can share memorable events happening in their
-life along with editing and or even deleting them if they later want. An user can even like other members posts, along with it's own having a firm grasp of what's going on
-in the circle
+## A Full stack web app that can be used by users with similar interests or intensions to join in interact with others, where they can share memorable events happening in their life along with editing and or even deleting them if they later want. An user can even like other members posts, along with it's own having a firm grasp of what's going on in the circle
 
 ![image](https://user-images.githubusercontent.com/73072690/177022931-a2914aca-ac2f-44a2-a691-cd559c03b7dc.png)
 
